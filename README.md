@@ -10,8 +10,8 @@
 ![alt text][cat]
 
 
-[Google]((https://www.google.com)
-[(https://www.google.com)]
+(https://www.google.com)
+(https://www.google.com "Google's Homepage")
 
 ```
 class Main {
