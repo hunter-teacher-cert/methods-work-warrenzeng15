@@ -1,8 +1,7 @@
 
 CODE: This method should search through `data` and return the index of the first time `value` appears in `data`. If `value` is not in `data` return -1.
 
-  public int linearSearch(int targetValue, ArrayList<Integer> data) {        //provide
-
+    public int linearSearch(int targetValue, ArrayList<Integer> data) {        //provide
     //int foundIndex = -1; //deliberate-error (at the "end" of the live demo, or if a student asks, we show that the code we have will not work correctly if value is not in the   arraylist)
     int foundIndex = 0;  //provide
     
