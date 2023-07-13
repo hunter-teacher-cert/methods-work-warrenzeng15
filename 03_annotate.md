@@ -13,11 +13,11 @@ CODE: This method should search through `data` and return the index of the first
       if (currentValue == targetValue) {   // student-prompt: "how do we know if we've found our target?" A: We track "currentValue" and compare to see if it is our targetValue
                                           //                  use a conditional to find it
         foundIndex = i;                 //student-prompt: "what do we do now that we've found our target?"
-        break;                      //
+        break;                      //big idea?/deliberate error?
         }
       }
       
-    return foundIndex;
+    return foundIndex;  //provide
   }
 
 
