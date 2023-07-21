@@ -10,7 +10,23 @@ Afterwards, instead of having students jump into writing while loops on their ow
 There might even be room for scaffolded code similar to what I thought up for 06_scaffold, where I had heavily scaffolded Game of Nim that was focused on having students fill in the blanks in the program -- filling in the conditions for the conditional statements/loops in the code. This could be added at the end of the lesson if students speed through the code tracing problems, or if the lesson ends up taking class periods.I have yet to finish formulating the exact lesson structure (in terms of stuff like a powerpoint presentation/lecture, the materials for live-coding and code tracing, differentiation, the warm-up activity, etc), but I think this is a solid preliminary plan for now.
 
 
-### live coding
+
+## Intro (5 - 7 min)
+### Aim: What is a loop in computer programming? How can we use a "while" statement to make loops?  
+
+### Do Now: 
 
 
-### code tracing
+
+## Short powerpoint slide/lecture to introduce loops (5 - 7 min)
+Materials in folder
+
+## Live coding activity (15min)
+Materials in folder  
+Using a live-code demonstration, students will be shown an example of a while loop(s) in action. 
+  
+
+## Code tracing (15-20 min/end of class)
+Materials in folder  
+Students work in their table groups to complete a worksheet with code tracing problems centered on while loops.
+
