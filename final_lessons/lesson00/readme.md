@@ -16,6 +16,7 @@ There might even be room for scaffolded code similar to what I thought up for 06
 
 ### Do Now: 
 
+Review on if/else statements -- focusing on the conditions. This will lead into the main lesson (conditions of a while loop)
 
 
 ## Short powerpoint slide/lecture to introduce loops (5 - 7 min)
