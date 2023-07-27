@@ -1,4 +1,4 @@
-## Loops contd. (for loops)
+# Lesson01 Loops cont. (for loops)
 This lesson is meant to be a follow-up to lesson00, (although retrospectively, it may be worthwhile to expand on while loops for another class period or two in order to solidify student's knowledge of it). As such, the same target audience is applicable here -- students in grades 10-12 in an Intro to CS course or AP CS A.
 
 Computer Science and Digital Fluency Standards: 9-12.CT.7, 9-12.CT.8, 9-12.CT.10
