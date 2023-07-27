@@ -89,7 +89,7 @@ answer:
 
 
 <!-- little bit of a trick question -- it's an infinite loop-->
-7.
+6.
 ```java
 int i = 0;
 while (i <= 10) {
@@ -102,7 +102,7 @@ answer:
 the computer will keep on printing out the number 2 on a new line. Infinite loop.  
 
 
-8.
+7.
 ``` java
 int x = 3;
 int i = 0;
