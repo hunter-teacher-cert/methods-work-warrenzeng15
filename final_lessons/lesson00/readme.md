@@ -1,6 +1,8 @@
 # Lesson00 - Loops (while loops)
 This lesson is intended to be taught to high school students, grades 10-12. The materials are presented in Java, so it can be used for either AP CS A or an Introduction to Computer Science class (either in Java, or adapted to another language). 
 
+Computer Science and Digital Fluency Standards: 9-12.CT.7, 9-12.CT.8 
+
 ### Overview
 Students start with a quick excercise reviewing if/else statements and conditions in the Do Now. This will lead into the introduction of loops through a lecture using a few slides. Students will get the formal definition/explanation of the concept and then see a few examples in the slides.
 
