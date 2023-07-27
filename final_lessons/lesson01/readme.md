@@ -32,5 +32,5 @@ Directions/example in  the slides. Class will come back together to show off the
 
 ## Pair programming (25 min - end of class)
 (w/ scaffolding)  
-This is under the assumption that students have already been introduced to pair programming. Students will work in pairs to complete writing a program that requires the use of for loops. 
-One student will be the navigator, and the other the driver. They have the rest of class to work on this.
+This is under the assumption that students have already been introduced to pair programming. Students will work in pairs to complete two separate problems that require for loops. 
+One student will be the navigator, and the other the driver. After completeing one of the two tasks, they will then swap roles. They have the rest of class to work on this.
