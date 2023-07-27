@@ -1,16 +1,4 @@
 
- 
- int number = 5; // You can change this number to demonstrate other tables
-
-        System.out.println("Multiplication Table of " + number + ":");
-
-        for (int i = 1; i <= 10; i++) {
-            int result = number * i;
-            System.out.println(number + " x " + i + " = " + result);
-        }
-
-
-
 
         int lowerBound = 10;
         int upperBound = 50;
