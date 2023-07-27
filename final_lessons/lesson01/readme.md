@@ -1,8 +1,9 @@
 ## Loops contd. (for loops)
 
 
-## Intro 
 
+
+## Intro (3-5 min)
 ### Aim: What is a for loop and how is it different from while loops?  
 
 ### Do Now: 
@@ -17,10 +18,10 @@ Materials in folder
 
 
 
-### trace diagrams? (10min)
+## Trace diagrams of a for loop (7-10 min)
 
 
 
-### pair programming (rest of class)
+## Pair programming (25 min - end of class)
 w/ scaffolding
 
