@@ -24,8 +24,13 @@ There might even be room for scaffolded code similar to what I thought up for 06
 Review on if/else statements -- with a focus on the condition. This will lead into the main lesson (conditions of a while loop), and will also be related to the exit ticket. (included in slides)
 
 ## Short powerpoint slide/lecture to introduce loops (7 - 10 min)
-Materials in folder. Can also use a physical example or two during the explanation
-
+Materials in folder. Can also use a physical example or two during the explanation.
+Some examples: 
+      Act out the difference between:  
+while(lights are off){        and        while (true){      //or while(it is xth period)  with x being the current period
+turn on lights;                            if(lights are off){
+}                                               turn on lights;
+                                            }
 ## Code tracing (10-15 min)
 Materials in folder  
 Students work in their table groups to complete a few short code tracing problems centered on while loops. One problem will be done as an entire class as an example.
