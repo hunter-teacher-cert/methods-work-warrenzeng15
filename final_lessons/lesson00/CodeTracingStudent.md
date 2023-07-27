@@ -66,7 +66,7 @@ answer:
 
 
 
-7.
+6.
 ```java
 int i = 0;
 while (i <= 10) {
@@ -79,7 +79,7 @@ answer:
 
 
 
-8.
+7.
 ``` java
 int x = 3;
 int i = 0;
